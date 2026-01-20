@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "A Dynamic Computational Framework for Bipolar Progression and Sensitization"
+abstract: "Permanent Scars and Excitotoxic Pruning: A Dynamic Computational Framework for Bipolar Progression and Sensitization."
+type: software
+authors:
+  - family-names: "Cheung"
+    given-names: "Ngo"
+repository-code: "https://github.com/cheungngo/A-Dynamic-Computational-Framework-for-Bipolar-Progression-and-Sensitization.git"
+license: "CC-BY-4.0"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Cheung"
+      given-names: "Ngo"
+  year: 2026
+  title: "Permanent Scars and Excitotoxic Pruning: A Dynamic Computational Framework for Bipolar Progression and Sensitization"
+  publisher: "Zenodo"
+  doi: "10.5281/zenodo.18270218"
+  url: "https://doi.org/10.5281/zenodo.18270218"
